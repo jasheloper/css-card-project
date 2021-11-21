@@ -9,8 +9,10 @@ body {
     font-size: 10px;
     background-color: #ccc;
   }
+
   
-  /* Selectors to be matched up with rulesets */
+/* Selectors to be matched up with rulesets */
+
   .card {
     width: 35em;
     height: 22em;
@@ -18,27 +20,6 @@ body {
     background-color: red;
     border: 0.2em solid black;
     border-radius: 1.5em;
-  }
-  .card header,footer {
-    height: 3em;
-    padding: 1em;
-  }
-  .card h2,p {
-    margin: 0;
-  }
-  .card article {
-    height: 12em;
-    background-color: rgba(0,0,0,.3);
-  }
-  .card h2 {
-    font-size: 2em;
-  }
-  .card footer p {
-    font-size: 1.5em;
-  }
-  .card article p {
-    padding: 1em;
-    color: lightgrey;
   }
   .card header {
     background-image: linear-gradient(to bottom,rgba(0,0,0,0.1), rgba(0,0,0,0));
@@ -54,6 +35,31 @@ body {
   }
 
 
+/* Styles for Challenge */
+
+.card header,footer {
+  height: 3em;
+  padding: 1em;
+}
+.card h2,p {
+  margin: 0;
+}
+.card article {
+  height: 12em;
+  background-color: rgba(0,0,0,.3);
+}
+.card h2 {
+  font-size: 2em;
+  line-height: 1.5em;
+}
+.card footer p {
+  font-size: 1.5em;
+  line-height: 2em;
+}
+.card article p {
+  padding: 1em;
+  color: lightgrey;
+}
 
 
   
