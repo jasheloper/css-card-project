@@ -1,11 +1,5 @@
-# CSS Card Project • #100DaysofCode | CSS
+# MDN skill assessment - Fundamental CSS comprehension • 100DaysOfCode | CSS
 
-### Coding Challenge
-[Fundamental CSS comprehension @ MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Fundamental_CSS_comprehension)
+## Assessment Link:
+To test comprehension of fundamental CSS theory, syntax and mechanics.
 
-<br />
-
-### Video Link
-[Coming Soon!](#)
-
-<br />
