@@ -11,7 +11,7 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Fundamental_C
 
 ### Video Link (me doing the project):
 
-**JasheleTechTV** - Coming soon.
+**JasheleTechTV** - https://youtu.be/0Ojqm2W0ki0
 <br /><br />
 
 
